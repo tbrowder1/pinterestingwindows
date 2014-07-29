@@ -6,5 +6,5 @@ class AddAttachmentImageToPins < ActiveRecord::Migration
 
   def self.down
     remove_attachment :pins, :image
-  end
+  git aend
 end
